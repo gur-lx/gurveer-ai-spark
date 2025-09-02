@@ -327,7 +327,7 @@ const Portfolio = () => {
                       </div>
                       <div>
                         <h4 className="font-medium text-foreground">Phone</h4>
-                        <p className="text-muted-foreground">+91 98765 43210</p>
+                        <p className="text-muted-foreground">+91 9577392000</p>
                       </div>
                     </div>
                     
