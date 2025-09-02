@@ -337,7 +337,7 @@ const Portfolio = () => {
                       </div>
                       <div>
                         <h4 className="font-medium text-foreground">LinkedIn</h4>
-                        <p className="text-muted-foreground">linkedin.com/in/gurveer-singh</p>
+                        <p className="text-muted-foreground">www.linkedin.com/in/gurveer-singh-847b37312</p>
                       </div>
                     </div>
                     
