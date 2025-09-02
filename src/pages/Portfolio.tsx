@@ -347,7 +347,7 @@ const Portfolio = () => {
                       </div>
                       <div>
                         <h4 className="font-medium text-foreground">GitHub</h4>
-                        <p className="text-muted-foreground">github.com/gurveer-singh</p>
+                        <p className="text-muted-foreground">github.com/GurveerSingh123</p>
                       </div>
                     </div>
                   </div>
